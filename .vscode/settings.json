@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "DECRYPT.C": "cpp",
+        "RINJDAEL.C": "cpp",
+        "ENCRYPT.C": "cpp",
+        "rijndael.C": "cpp"
+    }
+}
